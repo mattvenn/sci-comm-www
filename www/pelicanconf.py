@@ -7,7 +7,6 @@ SITENAME = u'Matt Venn : Science Communication'
 SITEURL = ''
 THEME = 'bootstrap'
 PATH = 'content'
-STATIC_PATHS = ['pics']
 PLUGIN_PATHS = ["../pelican-plugins"]
 PLUGINS = ["summary"]
 
