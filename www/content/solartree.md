@@ -1,6 +1,7 @@
 Title: Solar Tree
 Date: 2015
 Category: Exhibit
+Background: pics/solartree/1.png
 
 The Energy Tree in Bristol's central Millennium Square combines community collaboration, artistic excellence, science and grass-roots energy activism in a unique project.
 
@@ -8,8 +9,6 @@ The Energy Tree is a public art installation and renewable power source designed
 to engage the public in energy issues.
 
 <!-- PELICAN_END_SUMMARY -->
-
-![pic](pics/solartree/1.png)
 
 ## Personal notes
 
@@ -26,4 +25,3 @@ TODO Dan
 ## Further information link
 
 http://www.demandenergyequality.org/energy-tree-2015.html
-

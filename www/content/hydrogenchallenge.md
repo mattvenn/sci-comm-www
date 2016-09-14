@@ -1,14 +1,13 @@
 Title: Hydrogen Challenge
 Category: STEM workshop
 Date: 2014
+Background: pics/hydrogenchallenge/1.jpg
 
 This workshop uses hydrogen to fuel a Lego car which participants will design
 and build. The cars that each team builds will have a race of efficiency – the
-car which travels the furthest on a fixed amount of fuel will win! 
+car which travels the furthest on a fixed amount of fuel will win!
 
 <!-- PELICAN_END_SUMMARY -->
-
-![pic](pics/hydrogenchallenge/1.jpg)
 
 Participants will be encouraged to build their models as quickly as possible, then race their cars a number of times in a process of iterative design.  Each time, they can go back and make changes to their car in order to try and improve their distance.  At the end of the session, each team keeps their highest score.
 
@@ -51,5 +50,3 @@ Cambridge Phyisics at Work programme. In June 2015 Arcola delivered workshops to
 * http://www.arcolaenergy.com/schoolshychallenge
 * https://www.london.gov.uk/press-releases/mayoral/london-schools-hydrogen-challenge-final
 * https://youtu.be/n1b1JE4sTds
-
-

@@ -1,6 +1,7 @@
 Title: Solar Moodlamp
 Category: STEM workshop
 Date: 2013
+Background: images/solarmoodlamp/1.jpg
 
 Children built solar powered moodlamps to take home, learning about electricity
 and solar panels. Children learned to solder LEDs, and lamps were decorated with spin paintings.
@@ -9,16 +10,14 @@ and solar panels. Children learned to solder LEDs, and lamps were decorated with
 
 TODO photos of spin paintings
 
-![pic](pics/solarmoodlamp/1.jpg)
-
 ## Personal notes
 
-I co-designed and co-facilitated this workshop for the Abu Dhabi science festival. 
+I co-designed and co-facilitated this workshop for the Abu Dhabi science festival.
 
 The main challenge of this workshop was to come up with something that was cheap
 enough to give away, but still provide an engaging learning experience. We
 co-opted solar garden lights as a way of cheaply getting the battery, solar
-panel and LED. 
+panel and LED.
 
 We also came up with the idea of using a bicycle wheel to facilitate easy and
 beautiful shades for the lamps.
@@ -52,5 +51,3 @@ Gill Duncan, Senior Projects Manager, EISF.
 ## Further information link
 
 https://www.facebook.com/AbuDhabiScienceFestival/posts/10153394012620565
-
-
