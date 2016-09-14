@@ -1,12 +1,12 @@
-/* 
- _____   _           _         _                        _                  
-|_   _| | |         | |       | |                      | |                 
-  | |   | |__   __ _| |_ ___  | |_ ___  _ __ ___   __ _| |_ ___   ___  ___ 
+/*
+ _____   _           _         _                        _
+|_   _| | |         | |       | |                      | |
+  | |   | |__   __ _| |_ ___  | |_ ___  _ __ ___   __ _| |_ ___   ___  ___
   | |   | '_ \ / _` | __/ _ \ | __/ _ \| '_ ` _ \ / _` | __/ _ \ / _ \/ __|
  _| |_  | | | | (_| | ||  __/ | || (_) | | | | | | (_| | || (_) |  __/\__ \
  \___/  |_| |_|\__,_|\__\___|  \__\___/|_| |_| |_|\__,_|\__\___/ \___||___/
 
-Oh nice, welcome to the stylesheet of dreams. 
+Oh nice, welcome to the stylesheet of dreams.
 It has it all. Classes, ID's, comments...the whole lot:)
 Enjoy responsibly!
 @ihatetomatoes
@@ -112,7 +112,7 @@ body, html {
 	background-color: #000000;
 }
 body {
-	
+
 }
 .no-js {
 	padding-top: 106px;
@@ -139,6 +139,7 @@ section {
 main {
 	overflow-x: hidden;
 }
+
 #preload {
 	width: 1px;
 	height: 1px;
@@ -147,6 +148,7 @@ main {
 	top: 0;
 	left: 0;
 }
+
 .bcg {
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -163,13 +165,13 @@ main {
 	position: relative;
 }
 
-.hsContent {
+/*.hsContent {
 	max-width: 700px;
 	position: absolute;
 	left: 50%;
 	top: 50%;
-}
-    /*
+}*/
+
 	.hsContent h2,
 	.copy h2 {
 		color: #ffffff;
@@ -177,7 +179,6 @@ main {
 		line-height: 48px;
 		margin-bottom: 12px;
 	}
-    */
 
 	.hsContent h2,
     .copy h2 {
@@ -189,12 +190,17 @@ main {
 		margin-bottom: 12px;
         margin-left: 200px;
 	}
-	.copy p, ul {
+	.articleSlide2 p, .copy p, ul {
 		width: 800px;
         font-size: 25px;
 		color: #fff8de;
         margin-left: 200px;
 	}
+
+    .articleSlide2 .hsContent  {
+        padding-top: 100px;
+    }
+
 	.copy a {
 		text-decoration: underline;
 		color: #fff8de;
@@ -216,7 +222,7 @@ main {
 .curtainContainer .copy {
     position: absolute;
     bottom: 30%; left: 0;
-    width: 100%; 
+    width: 100%;
 }
 
 #banner h1 a {

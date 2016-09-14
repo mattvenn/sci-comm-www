@@ -1,14 +1,13 @@
 Title: Aerial Photography
 Category: STEM workshop
 Date: 2014
+Background: pics/aerialphotography/1.jpg
 
-This workshop is designed to inspire the next generation of renewable energy engineers to use practical maths and science skills. 
+This workshop is designed to inspire the next generation of renewable energy engineers to use practical maths and science skills.
 
 The 2 hour workshop is structured into fun and fast paced sections, from computer programming to calculating volume. Each section works towards sending a hydrogen-filled balloon into the air to take aerial photographs of participants.
 
 <!-- PELICAN_END_SUMMARY -->
-
-![pic](pics/aerialphotography/1.jpg)
 
 ## Personal notes
 
@@ -39,4 +38,3 @@ https://www.arcolaenergy.com/s/School_Workshops-Balloonography.pdf
 * Excellent workshop, loved the links to the new Computing curriculum.
  Algorithms and programming aplenty!  All the children had a fantastic time.
  Can’t wait for next year! Thank you. - Teacher
-

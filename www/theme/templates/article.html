@@ -8,55 +8,47 @@
 
         <link rel="stylesheet" href="theme/css/normalize.css">
         <link rel="stylesheet" href="theme/css/main.css">
-        <script src="theme/js/vendor/modernizr-2.7.1.min.js"></script>
+        <!-- <script src="theme/js/vendor/modernizr-2.7.1.min.js"></script> -->
         <style type="text/css">
 			body {
 				font-family: 'Open Sans', sans-serif;
 			}
-            #slide-1 .bcg {background-image:url('images/earthtomars/1.jpg')}
+            #slide-1 .bcg {background-image:url('{{ article.background }}')}
 		</style>
 
         {% endblock head %}
 </head>
 
 <body id="index" class="loading">
-        <header id="banner" class="body">
-                <h1><a href="{{ SITEURL }}/">{{ SITENAME }} <strong>{{ SITESUBTITLE }}</strong></a></h1>
-        </header><!-- /#banner -->
-        <section id="content">
-        {% set count = 1 %}
-        <main>
-                <div id="preload">
-                    <img src='images/earthtomars/1.jpg'>
+    <header id="banner" class="body">
+        <h1><a href="{{ SITEURL }}/">{{ SITENAME }} <strong>{{ SITESUBTITLE }}</strong></a></h1>
+    </header>
+    <div id="preload">
+        <img src='{{ article.background }}'>
+    </div>
+    {% set count = 1 %}
+    <main>
+        <section id="slide-{{count}}" class="articleSlide2">
+             <div class="bcg"
+                data-center="background-position: 50% 0px;"
+                data-top-bottom="background-position: 50% -200px;"
+                data-anchor-target="#slide-{{count}}">
+                <div class="hsContainer">
+                    <div class="hsContent"
+                        data-bottom-top="opacity: 0"
+                        data-200-top="opacity: 1;"
+                        data-anchor-target="#slide-{{count}} h2">
+                        <h2>{{ article.title }} : {{ article.category }} </h2>
+                        {{ article.content }}
+                    </div>
                 </div>
-                    <section id="slide-{{count}}" class="homeSlide homeSlideTall">
-                         <div class="bcg"
-                                        data-center="background-position: 50% 0px;"
-                                        data-bottom-top="background-position: 50% 200px;"
-                                        data-top-bottom="background-position: 50% -200px;"
-                                        data-anchor-target="#slide-{{count}}">
-                            <div class="curtainContainer">
-                                    <div class="curtain"
-                                        data-bottom-top="height: 100%; top: 0%; opacity: 0.6;"
-                                        data-top-bottom="height: 100%; top: 0%; opacity: 0.6"
-                                        data-anchor-target="#slide-{{count}}"></div>
-                                    <div class="copy"
-                                        data-bottom-top="opacity: 0"
-                                        data-200-top="opacity: 1;"
-                                        data-anchor-target="#slide-{{count}} .copy"
-                                    >
-                                        <h2>{{ article.title }} : {{ article.category }} </h2>
-                                        {{ article.content }}
-                                    </div>
-                            </div>
-                       </div> 
-                   </section>
-
-        </main>
+            </div>
+       </section>
+    </main>
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="theme/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+        <script>window.jQuery || document.write('<script src="theme/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>`
         <script src="theme/js/imagesloaded.js"></script>
         <script src="theme/js/skrollr.js"></script>
-        <script src="theme/js/_main.js"></script>
+        <script src="theme/js/article.js"></script>
 </body>
 </html>

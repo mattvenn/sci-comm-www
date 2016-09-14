@@ -1,6 +1,7 @@
 Title: Science of Snow
 Category: Exhibit
 Date: 2010
+Background: pics/scienceofsnow/1.png
 
 Science of Snow is an interactive exhibit that starts by illustrating how snowflakes form and ends with a unique snowflake postcard to take away.
 
@@ -8,13 +9,11 @@ By controlling environmental conditions, participants grow a unique snowflake; i
 
 <!-- PELICAN_END_SUMMARY -->
 
-![pic](pics/scienceofsnow/1.png)
-
 ## Personal notes
 
 I researched, designed and built the software and hardware for the exhibit. I
 learnt a lot about the science of snow, and enjoyed working through a paper
-on modelling snowflake formation by Janko Gravner, David Griffeath and Clifford A. Reiter. 
+on modelling snowflake formation by Janko Gravner, David Griffeath and Clifford A. Reiter.
 
 Working with Lou Smith (carpentry) and the London Hackspace (laser cutting) gave me lots of opportunities to work on my fabrication skills.
 
@@ -31,5 +30,3 @@ The exhibit has been shown at many galleries including The Crypt (London) Motorc
 ## Further information link
 
 http://www.mattvenn.net/2010/11/01/the-science-of-snow/
-
-

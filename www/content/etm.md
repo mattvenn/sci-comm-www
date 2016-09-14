@@ -1,6 +1,7 @@
 Title: Earth to Mars
 Date: 2016
 Category: STEM workshop
+Background: pics/earthtomars/1.jpg
 
 An exceptional learning experience - developed in collaboration with space industry leaders and robotics innovators - that will alters students’ perception of both space exploration and their own potential contribution to this sector.
 
@@ -9,7 +10,7 @@ Students will develop their skills in all four STEM disciplines – programming 
 
 <!-- PELICAN_END_SUMMARY -->
 
-![pic](pics/earthtomars/1.jpg)
+<!-- ![pic](images/earthtomars/1.jpg) -->
 
 ## Personal notes
 
@@ -26,7 +27,7 @@ had contributed, used the website's API to download the samples, categorise them
 ## Learning objectives
 
 * Learn about the European Space Agency’s Aurora Mission and ExoMars rover programme
-* Consider what the signs of extraterrestrial life might be and how to look for them 
+* Consider what the signs of extraterrestrial life might be and how to look for them
 * In small teams (max 3) use Python computing language to programme a newly developed robot rover
 * Programme a robot to perform tasks on the Martian landscape, including manoeuvring; taking photos; avoiding obstacles
 * Programme robot to take reading of temperature, CH4, humidity and location and upload this information to a class map

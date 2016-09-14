@@ -1,12 +1,11 @@
 Title: Wind Turbine
 Category: STEM workshop
 Date: 2013
+Background: pics/windturbine/1.jpg
 
 The wind turbine project challenges groups of children to build the most effective wind turbines from recycled plastic bottles. A league table allows groups to test different designs and test which is the most effective.
 
 <!-- PELICAN_END_SUMMARY -->
-
-![pic](pics/windturbine/1.jpg)
 
 ## Personal notes
 
@@ -19,7 +18,7 @@ creativity is encouraged and mistakes are acceptable.
 
 ## Impact
 
-3 years of SAUCE workshops with 1500 children taking part over 4 weeks. Over 20 school workshops run 
+3 years of SAUCE workshops with 1500 children taking part over 4 weeks. Over 20 school workshops run
 
 ## References
 
@@ -33,4 +32,3 @@ Teacher.
 
 * http://learning-to-learn.org.uk/blog/2011/01/31/wind-turbine-workshops/
 * "One of the best workshops I have seen in the last three years" - Teacher at South Camden Community School
-
