@@ -2,6 +2,7 @@ Title: Science of Snow
 Category: Exhibit
 Date: 2010
 Background: pics/scienceofsnow/1.png
+TextColor: #000000
 
 Science of Snow is an interactive exhibit that starts by illustrating how snowflakes form and ends with a unique snowflake postcard to take away.
 

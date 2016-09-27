@@ -2,6 +2,7 @@ Title: Earth to Mars
 Date: 2016
 Category: STEM workshop
 Background: pics/earthtomars/1.jpg
+TextColor: #fff8de
 
 An exceptional learning experience - developed in collaboration with space industry leaders and robotics innovators - that will alters students’ perception of both space exploration and their own potential contribution to this sector.
 

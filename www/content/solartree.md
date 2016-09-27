@@ -2,6 +2,7 @@ Title: Solar Tree
 Date: 2015
 Category: Exhibit
 Background: pics/solartree/1.png
+TextColor: #fff8de
 
 The Energy Tree in Bristol's central Millennium Square combines community collaboration, artistic excellence, science and grass-roots energy activism in a unique project.
 

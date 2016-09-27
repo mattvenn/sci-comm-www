@@ -14,6 +14,12 @@
 				font-family: 'Open Sans', sans-serif;
 			}
             #slide-1 .bcg {background-image:url('{{ article.background }}')}
+            .hsContent h2, .copy h2 {
+                color: {{ article.textcolor }};
+            }
+            .articleSlide2 p, .copy p, ul {
+                color: {{ article.textcolor }};
+            }
 		</style>
 
         {% endblock head %}

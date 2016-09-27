@@ -2,6 +2,7 @@ Title: Wind Turbine
 Category: STEM workshop
 Date: 2013
 Background: pics/windturbine/1.jpg
+TextColor: #fff8de
 
 The wind turbine project challenges groups of children to build the most effective wind turbines from recycled plastic bottles. A league table allows groups to test different designs and test which is the most effective.
 

@@ -1,7 +1,8 @@
 Title: Solar Moodlamp
 Category: STEM workshop
 Date: 2013
-Background: images/solarmoodlamp/1.jpg
+Background: pics/solarmoodlamp/1.jpg
+TextColor: #fff8de
 
 Children built solar powered moodlamps to take home, learning about electricity
 and solar panels. Children learned to solder LEDs, and lamps were decorated with spin paintings.
